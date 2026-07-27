@@ -90,7 +90,7 @@ SMARTTER-NER/
 ├── README.md
 └── LICENSE
 
-## 9. Installation and Setup
+Installation and Setup
 
 ### Clone the Repository
 
