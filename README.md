@@ -55,7 +55,7 @@ Step 7: Deployment
 The trained model is deployed using Streamlit, where users enter Telugu text and receive entity predictions with visualization and explanations.
 
  System Architecture
-                 Telugu Text Input
+                                  Telugu Text Input
                          │
                          ▼
                  Text Preprocessing
