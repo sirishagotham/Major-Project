@@ -89,10 +89,12 @@ SMARTTER-NER/
 ├── requirements.txt
 ├── README.md
 └── LICENSE
+```
 
-Installation and Setup
 
-### Clone the Repository
+### Installation and Setup
+
+Clone the Repository
 
 ```bash
 git clone https://github.com/yourusername/SMARTTER-NER.git
